@@ -1,2 +1,2 @@
 # LabSection2
-Lab repo
+Griffith Neumark
