@@ -1,2 +1,2 @@
 # LabSection2
-Cody Constine
+Griffith Neumark
